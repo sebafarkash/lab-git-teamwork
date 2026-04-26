@@ -1,0 +1,14 @@
+# Результати збiрки C++
+*.o
+*.exe
+*.out
+build/
+
+# IDE
+.idea/
+.vscode/
+*.user
+
+# Системнi
+.DS_Store
+Thumbs.db
